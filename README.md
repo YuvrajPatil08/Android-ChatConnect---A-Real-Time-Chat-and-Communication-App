@@ -33,7 +33,7 @@ Messages are delivered instantly and efficiently through Firebase Cloud Messagin
 
 1. *Clone the repository:*
     bash
-    git clone https://github.com/Digu45/Android-chatconnect-real-time-chat-app-main.git
+    git clone https://github.com/YuvrajPatil08/Android-ChatConnect---A-Real-Time-Chat-and-Communication-App
     cd Chatoon/app
     
 
