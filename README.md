@@ -86,4 +86,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## Contact
 
-For questions or support, please contact [diguvapilkar45@gmail.com](mailto:diguvapilkar45@gmail.com).
+For questions or support, please contact [yuvrajpatil9851@gmail.com](mailto:yuvrajpatil9851@gmail.com).
