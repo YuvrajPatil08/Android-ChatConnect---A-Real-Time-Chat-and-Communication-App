@@ -86,4 +86,8 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## Contact
 
+<<<<<<< HEAD
 For questions or support, please contact [yuvrajpatil9851@gmail.com](mailto:yuvrajpatil9851@gmail.com).
+=======
+For questions or support, please contact [yuvrajpatil9851@gmail.com](mailto:yuvrajpatil9851@gmail.com).
+>>>>>>> 1a8a99b (Updated Final Report with new changes)
